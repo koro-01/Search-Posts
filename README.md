@@ -2,16 +2,16 @@
 
 Summary:
 
-Controllers: PostController.php
+-Controllers: PostController.php
 
-Models: Post.php, Category.php, User.php
+-Models: Post.php, Category.php, User.php
 
-Factories: PostFactory.php, UserFactory.php, CategoryFactory.php
+-Factories: PostFactory.php, UserFactory.php, CategoryFactory.php
 
-Seeders: DatabaseSeeder.php
+-Seeders: DatabaseSeeder.php
 
-Migrations: Migration files in database/migrations/
+-Migrations: Migration files in database/migrations/
 
-Routes: Add the routes in routes/web.php
+-Routes: Add the routes in routes/web.php
 
-Views: Blade files in resources/views/posts/
+-Views: Blade files in resources/views/posts/
